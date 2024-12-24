@@ -1,0 +1,88 @@
+﻿/* Apply to the entire page to center the login container */
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f9;
+    font-family: "Dangrek", sans-serif;
+    background: radial-gradient(circle, #9A00FF, #2A0046);
+}
+
+.login-container {
+    width: 420px;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    margin:auto;
+    text-align: center;
+    background-color: #2A0046;
+}
+    .login-container .image{
+        width   : 100%;
+        display:flex;
+        justify-content:center;
+    }
+
+    .login-container img {
+        width: 300px;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+
+/* Styling for input fields */
+.input{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+
+}
+.input-field {
+    width: calc(100% - 20px);
+    padding: 15px 10px;
+    margin-bottom: 15px;
+    /*    border: 1px solid #ddd;*/
+    font-family: "Dangrek", sans-serif;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Styling for the login button */
+.btn {
+    width:100%;
+    display:flex;
+   justify-content:center;
+}
+.submit-button {
+    padding: 10px 25px;
+    background: linear-gradient(to right, #9A00FF, #C98BF2);
+    font-size: 15px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bolder;
+    transition: background-color 0.3s;
+    font-family: "Dangrek", sans-serif;
+}
+
+    .submit-button:hover {
+        background-color: #45a049;
+    }
+h3{
+    color:white;
+    font-size:15px;
+}
+a {
+    color: #C163FF;
+    text-decoration:none;
+}

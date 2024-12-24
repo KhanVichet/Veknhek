@@ -1,0 +1,90 @@
+﻿/* Center the registration form on the page */
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: "Dangrek", sans-serif;
+    background: radial-gradient(circle, #9A00FF, #2A0046);
+}
+
+/* Style the main registration container */
+.login-container {
+    width: 420px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #2A0046;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+    /* Style for the logo/image */
+    .login-container .image img {
+        width: 200px;
+        height: auto;
+        margin-bottom: 01px;
+    }
+
+    /* Title styling */
+    .login-container .title h2 {
+        margin-bottom: 20px;
+        color: white;
+        font-size: 1.5em;
+    }
+
+/* Input fields */
+.input-field {
+    width: 100%;
+    padding: 15px 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+    font-family: "Dangrek", sans-serif;
+}
+
+/* Button styling */
+.btn{
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+.submit-button {
+    padding: 10px 20px;
+    background: linear-gradient(to right, #9A00FF, #C98BF2);
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: "Dangrek", sans-serif;
+}
+
+    .submit-button:hover {
+        background-color: #45a049;
+    }
+
+/* Link styling for "Back to Home" */
+a {
+    color: #333;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 20px;
+    color: #C163FF;
+}
+
+    a:hover {
+        color: #41006D;
+    }
+
+    a i {
+        margin-right: 5px;
+    }

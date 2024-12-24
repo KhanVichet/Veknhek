@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Content.master.cs" Inherits="Content" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
+     <!-- LEFT SIDEBAR -->
+ <div class="sidebar-left p-3 shadow">
+     <h5>Menu</h5>
+     <ul class="nav flex-column text-white ms-3 position-relative">
+         <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click" CssClass="text-white text-decoration-none">
+         <li class="nav-item fs-6 mb-2 d-flex align-items-center">
+             <i class="fa-solid fa-house me-2"></i>
+             <span>Feed</span>
+         </li>
+         </asp:LinkButton>
+         
+         
+         <asp:LinkButton ID="LinkButton3" runat="server" OnClick="btnSetting" CssClass="text-white text-decoration-none">
+         <li class="nav-item fs-6 d-flex align-items-center">
+             <i class="fa-solid fa-gear me-2 logout"></i>
+             <span>Settings</span>
+         </li>
+         </asp:LinkButton>
+         <asp:LinkButton ID="LinkButton4" runat="server" OnClick="btnLogout" CssClass="text-white text-decoration-none">
+         <li class="nav-item fs-6 mb-2 d-flex align-items-center position-absolute bottom-0">
+            <i class="fa-regular fa-circle-left me-2 "></i>
+            <span>Logout</span>
+        </li>
+         </asp:LinkButton>
+     </ul>
+ </div>
+
+
+ <!-- RIGHT SIDEBAR -->
+ <div class="sidebar-right p-3 shadow">
+     <div class="d-flex justify-content-between">
+         <h5>Trends</h5>
+         <asp:LinkButton ID="LinkButton2" runat="server" CssClass="text-decoration-none text-uppercase" OnCommand="btn_refresh">refresh</asp:LinkButton>
+     </div>
+     
+     <asp:Repeater ID="rptHashtage" runat="server" >
+    <ItemTemplate>
+     <ul class="list-unstyled">
+               
+          <li​>
+           <asp:LinkButton ID="btnHashtage" runat="server" CommandArgument='<%# Eval("hashtag") %>' 
+OnCommand="btnHashtage_Click" CssClass="text-white hashtage text-decoration-none ">  
+            <asp:Label ID="Label1" runat="server" Text='<%# "#"+Eval("hashtag") %>' CssClass="me-3​ font"></asp:Label>
+            <asp:Label ID="Label2" runat="server" Text='<%# Eval("hashtag_count") %>' CssClass="ms-2"></asp:Label>
+            </asp:LinkButton>
+         </li​>
+         
+
+     </ul>
+    </ItemTemplate>
+    </asp:Repeater>
+ </div>
+
+ <!-- CENTER CONTENT -->
+ <div class="main-content">
+     <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+ </div>
+    <script>
+    // Auto-expand textarea
+    document.addEventListener("DOMContentLoaded", function () {
+        const textareas = document.querySelectorAll(".auto-expand");
+        textareas.forEach(textarea => {
+            textarea.addEventListener("input", () => {
+                textarea.style.height = "auto"; // Reset height
+                textarea.style.height = textarea.scrollHeight + "px"; // Adjust height dynamically
+            });
+        });
+    });
+
+    
+    </script>
+</asp:Content>
+

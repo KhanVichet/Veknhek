@@ -1,0 +1,179 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+
+body {
+    background: radial-gradient(circle farthest-side, #9A00FF, #2A0046);
+    font-family: "Dangrek", sans-serif;
+    font-family: "Gabarito";
+    margin: 0;
+    padding: 0;
+}
+
+.font {
+    font-family: "Dangrek", sans-serif;
+}
+
+.font_post::placeholder {
+    font-family: "Dangrek", sans-serif;
+    font-family: "Gabarito";
+}
+
+/* Navbar */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+}
+
+.nav {
+    height: 90%;
+}
+
+/* Sidebars */
+.sidebar-left,
+.sidebar-right {
+    position: fixed;
+    top: 82px;
+    bottom: 0;
+    overflow-y: auto;
+    color: white;
+}
+
+.sidebar-left {
+    left: 0;
+    width: 15%; /* Roughly 2/12 columns */
+}
+
+.sidebar-right {
+    right: 0;
+    width: 15%; /* Roughly 3/12 columns */
+}
+
+/* Main content */
+.main-content {
+    position: relative;
+    margin-left: 15%; /* Width of left sidebar */
+    margin-right: 15%; /* Width of right sidebar */
+    overflow-y: auto;
+    height: calc(100vh - 84px); /* Full viewport height minus navbar */
+    padding: 1rem;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling */
+}
+
+.main-comment {
+    height: calc(100vh - 185px);
+}
+
+
+.main-content::-webkit-scrollbar {
+    display: none;
+}
+
+.icon {
+    color: white;
+}
+
+    .icon:hover {
+        cursor: pointer;
+    }
+
+.box_newsfeed {
+    background: #2A0046;
+    color: white;
+}
+
+
+ul li {
+    cursor: pointer;
+}
+
+.date {
+    font-size: 14px;
+}
+
+.comment-title {
+    background-color: #41006D;
+}
+
+.comment {
+    background-color: #3d085f;
+    color: white;
+}
+
+.comment_post {
+    position: fixed;
+    bottom: 0px;
+    z-index: 999;
+    width: 68%;
+}
+
+.status-box {
+    position: sticky;
+    top: 0px;
+    top: 0px;
+    z-index: 999;
+}
+
+.newsfeed_box {
+    position: relative;
+    overflow-y: auto;
+    margin-left: 400px;
+    height: calc(100vh - 120px); /* Full viewport height minus navbar */
+    padding: 1rem;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling */
+}
+
+.profile {
+    position: fixed;
+    top: 82px;
+    bottom: 0;
+    overflow-y: auto;
+    color: white;
+    left: 0;
+    width: 500px;
+}
+
+.newsfeed_box::-webkit-scrollbar {
+    display: none;
+}
+
+.box_profile {
+    background: #2A0046;
+}
+
+.btn_back {
+    right: 0;
+    bottom: 20px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.box_update {
+    top: 10%; /* Positions the dropdown below the ellipsis */
+    right: 0; /* Aligns the dropdown to the right edge */
+    min-width: 120px; /* Ensures a decent width for the dropdown */
+    z-index: 10; /* Makes sure it appears above other elements */
+    display: none; /* Initially hidden */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #3d085f;
+}
+
+    .box_update ul li {
+        color: red;
+    }
+
+        .box_update ul li:hover {
+            background-color: rgba(255, 255, 255, 0.1); /* Highlight on hover */
+        }
+
+/* Show dropdown on hover */
+.more:hover .box_update {
+    display: block;
+}
+
+.update {
+    background: #2A0046;
+}

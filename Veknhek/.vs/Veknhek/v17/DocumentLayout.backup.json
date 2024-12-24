@@ -1,0 +1,611 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\ASP\\Veknhek\\Veknhek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|d:\\project\\asp\\veknhek\\veknhek\\veknhek\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\content.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\content.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\hashtage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\hashtage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\comment2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\comment2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\comment2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\comment2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\profileuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\profileuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\profileuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\profileuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\style\\mian.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\style\\mian.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\hashtage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\hashtage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\style\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\style\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\style\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\style\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\content.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\content.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\user.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\user.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bin\\microsoft.codedom.providers.dotnetcompilerplatform.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bin\\microsoft.codedom.providers.dotnetcompilerplatform.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bootstrap\\css\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bootstrap\\css\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bootstrap\\css\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bootstrap\\css\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bootstrap\\css\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bootstrap\\css\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bootstrap\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bootstrap\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bootstrap\\css\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bootstrap\\css\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bootstrap\\css\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bootstrap\\css\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|D:\\Project\\ASP\\Veknhek\\Veknhek\\veknhek\\bootstrap\\css\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{960A8050-4A25-4C57-B6B7-83DE1C867280}|D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek|solutionrelative:veknhek\\bootstrap\\css\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mian.css",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Style\\Mian.css",
+              "RelativeDocumentMoniker": "Veknhek\\Style\\Mian.css",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Style\\Mian.css",
+              "RelativeToolTip": "Veknhek\\Style\\Mian.css",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAwKUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-20T10:04:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Update.aspx.cs",
+              "RelativeDocumentMoniker": "Veknhek\\Update.aspx.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Update.aspx.cs",
+              "RelativeToolTip": "Veknhek\\Update.aspx.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAQwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:59:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Update.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\Update.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Update.aspx",
+              "RelativeToolTip": "Veknhek\\Update.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T20:07:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hashtage.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Hashtage.aspx.cs",
+              "RelativeDocumentMoniker": "Veknhek\\Hashtage.aspx.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Hashtage.aspx.cs",
+              "RelativeToolTip": "Veknhek\\Hashtage.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:16:26.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hashtage.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Hashtage.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\Hashtage.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Hashtage.aspx",
+              "RelativeToolTip": "Veknhek\\Hashtage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T18:08:54.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\User.aspx.cs",
+              "RelativeDocumentMoniker": "Veknhek\\User.aspx.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\User.aspx.cs",
+              "RelativeToolTip": "Veknhek\\User.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:12:03.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\User.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\User.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\User.aspx",
+              "RelativeToolTip": "Veknhek\\User.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T04:05:08.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileUser.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\ProfileUser.aspx.cs",
+              "RelativeDocumentMoniker": "Veknhek\\ProfileUser.aspx.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\ProfileUser.aspx.cs",
+              "RelativeToolTip": "Veknhek\\ProfileUser.aspx.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAIwAMBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:06:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileUser.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\ProfileUser.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\ProfileUser.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\ProfileUser.aspx",
+              "RelativeToolTip": "Veknhek\\ProfileUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T04:05:19.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Content.master.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Content.master.cs",
+              "RelativeDocumentMoniker": "Veknhek\\Content.master.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Content.master.cs",
+              "RelativeToolTip": "Veknhek\\Content.master.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:01:21.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Content.master",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Content.master",
+              "RelativeDocumentMoniker": "Veknhek\\Content.master",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Content.master",
+              "RelativeToolTip": "Veknhek\\Content.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T03:56:59.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment2.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Comment2.aspx.cs",
+              "RelativeDocumentMoniker": "Veknhek\\Comment2.aspx.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Comment2.aspx.cs",
+              "RelativeToolTip": "Veknhek\\Comment2.aspx.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwIcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:25:14.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Veknhek\\Home.aspx.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Home.aspx.cs",
+              "RelativeToolTip": "Veknhek\\Home.aspx.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwIkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:56:48.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site.master.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Site.master.cs",
+              "RelativeDocumentMoniker": "Veknhek\\Site.master.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Site.master.cs",
+              "RelativeToolTip": "Veknhek\\Site.master.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:51:18.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment2.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Comment2.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\Comment2.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Comment2.aspx",
+              "RelativeToolTip": "Veknhek\\Comment2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T08:39:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Index.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\Index.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Index.aspx",
+              "RelativeToolTip": "Veknhek\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T08:32:37.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Home.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\Home.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Home.aspx",
+              "RelativeToolTip": "Veknhek\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T05:32:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.master",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Site.master",
+              "RelativeDocumentMoniker": "Veknhek\\Site.master",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Site.master",
+              "RelativeToolTip": "Veknhek\\Site.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T05:30:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Veknhek\\Register.aspx.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Register.aspx.cs",
+              "RelativeToolTip": "Veknhek\\Register.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvygAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:55:04.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\packages.config",
+              "RelativeDocumentMoniker": "Veknhek\\packages.config",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\packages.config",
+              "RelativeToolTip": "Veknhek\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T16:25:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "RelativeDocumentMoniker": "Veknhek\\Bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "RelativeToolTip": "Veknhek\\Bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-12-11T16:24:58.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Web.config",
+              "RelativeDocumentMoniker": "Veknhek\\Web.config",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Web.config",
+              "RelativeToolTip": "Veknhek\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T16:24:37.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Veknhek\\Web.Debug.config",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Web.Debug.config",
+              "RelativeToolTip": "Veknhek\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T16:24:27.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Login.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\Login.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Login.aspx",
+              "RelativeToolTip": "Veknhek\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T13:42:42.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T11:53:47.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T11:53:46.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T11:53:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bootstrap-grid.rtl.css",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.css",
+              "RelativeDocumentMoniker": "Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.css",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.css",
+              "RelativeToolTip": "Veknhek\\Bootstrap\\css\\bootstrap-grid.rtl.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T11:52:09.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "Veknhek\\Bootstrap\\css\\bootstrap-grid.min.css.map",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "Veknhek\\Bootstrap\\css\\bootstrap-grid.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T11:52:08.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "Veknhek\\Bootstrap\\css\\bootstrap-grid.min.css",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.min.css",
+              "RelativeToolTip": "Veknhek\\Bootstrap\\css\\bootstrap-grid.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T11:52:06.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "Veknhek\\Bootstrap\\css\\bootstrap-grid.css.map",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "Veknhek\\Bootstrap\\css\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T11:52:03.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "Veknhek\\Bootstrap\\css\\bootstrap-grid.css",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Bootstrap\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "Veknhek\\Bootstrap\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T11:45:51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.css",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Style\\Register.css",
+              "RelativeDocumentMoniker": "Veknhek\\Style\\Register.css",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Style\\Register.css",
+              "RelativeToolTip": "Veknhek\\Style\\Register.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T15:26:26.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Veknhek\\Login.aspx.cs",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Login.aspx.cs",
+              "RelativeToolTip": "Veknhek\\Login.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:45:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Register.aspx",
+              "RelativeDocumentMoniker": "Veknhek\\Register.aspx",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Register.aspx",
+              "RelativeToolTip": "Veknhek\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T13:30:58.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Style\\login.css",
+              "RelativeDocumentMoniker": "Veknhek\\Style\\login.css",
+              "ToolTip": "D:\\Project\\ASP\\Veknhek\\Veknhek\\Veknhek\\Style\\login.css",
+              "RelativeToolTip": "Veknhek\\Style\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T13:12:50.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
